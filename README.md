@@ -9,7 +9,7 @@ How to use
 ----------
 Just run 'make' command in a unix-based system and run the executable given the appropriate arguments! 
 
-****Arguments for PTHREADS version****
+#####Arguments for PTHREADS version#####
 
 
 *number of threads, number of 3-D points, maximum number of points inside a cube* 
@@ -17,7 +17,7 @@ Just run 'make' command in a unix-based system and run the executable given the 
 (eg. ./octree_pthreads 8 100 4)
 
 
-****Arguments for OPENMP version:**** 
+#####Arguments for OPENMP version#####
 
 *number of 3-D points, maximum number of points inside a cube* 
 
